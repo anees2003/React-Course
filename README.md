@@ -1,2 +1,2 @@
 # React-Course
-Sherians Coding React COurse
+Sherians Coding React Course
